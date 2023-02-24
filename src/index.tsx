@@ -5,7 +5,7 @@ import {PropsSchema} from "@asyncapi/react-component/lib/types";
 import "@asyncapi/react-component/lib/styles/fiori.css";
 
 const schema: PropsSchema = {
-    // url: "https://api.ms.transfergo.com/" + serviceName + "/v1/async-docs.yml",
+    // url: "https://domain.com/async-docs.yml",
     url: "asyncapi.yaml",
 }
 
